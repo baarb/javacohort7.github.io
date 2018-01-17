@@ -1,0 +1,21 @@
+* {
+	font-family: Abel, Ariel, sans-serif;
+}
+
+h1 {
+	color: rgba(0, 60, 153, 1);
+	height: auto;
+	width: auto;
+	margin: auto;
+	text-align: center;
+	line-height: 2em;
+	font-size: 10em;
+}
+
+h3 {
+	color: rgba(0, 60, 153, 1);
+	height: auto;
+	width: auto;
+	margin: auto;
+	font-size: 2em;
+}
